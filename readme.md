@@ -49,7 +49,7 @@ No se produce ningún conflicto al ser Fast-Fordward solo adelantamos el puntero
 
 #¿Qué comando o comandos utilizaste en el paso 25?
 
-* git log --grpah --decorate --pretty=online
+* git log --graph --decorate --pretty=online
 
 #El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
@@ -73,7 +73,7 @@ Se puede realizar de distintas formas yo utilice este.
 * git reflog 
  - localizamos el HASH, donde realizamos el commit del merge de las dos ramas.
 * git reset --hard a958dde
- - --hard, pra cambiar el working copy y recuperar la modificacion
+ - --hard, para cambiar el working copy y recuperar la modificacion
 
 #¿Qué comando o comandos usaste en el paso 32?
 
